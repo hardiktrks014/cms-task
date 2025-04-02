@@ -98,13 +98,6 @@ const Footer = () => {
                 &copy; {currentYear} Centers for Medicare & Medicaid Services.
                 All rights reserved.
               </p>
-              <div className="mt-4 md:mt-0">
-                <img
-                  src="https://www.cms.gov/files/images/cms-logo-white-footer.png"
-                  alt="CMS Logo"
-                  className="h-10 w-auto"
-                />
-              </div>
             </div>
           </div>
         </div>
